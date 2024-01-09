@@ -1,0 +1,5 @@
+outs:
+- md5: 7aa75f5a5d73273c1a96a22f64b1e23c
+  size: 75157
+  hash: md5
+  path: malicious.csv
